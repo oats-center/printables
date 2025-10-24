@@ -9,8 +9,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'Cell Modem Mount v5.step',
-/* time_stamp */ '2025-10-19T11:29:31-04:00',
+/* name */ 'Cell Modem Mount v6.step',
+/* time_stamp */ '2025-10-24T09:16:31-04:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',
@@ -1000,16 +1000,16 @@ SOLID_ANGLE_UNIT()
 #954=PRODUCT_DEFINITION_SHAPE('',$,#957);
 #955=SHAPE_REPRESENTATION('',(#566),#948);
 #956=PRODUCT_DEFINITION_CONTEXT('part definition',#961,'design');
-#957=PRODUCT_DEFINITION('Cell Modem Mount','Cell Modem Mount v5',#958,#956);
+#957=PRODUCT_DEFINITION('Cell Modem Mount','Cell Modem Mount v6',#958,#956);
 #958=PRODUCT_DEFINITION_FORMATION('',$,#963);
-#959=PRODUCT_RELATED_PRODUCT_CATEGORY('Cell Modem Mount v5',
-'Cell Modem Mount v5',(#963));
+#959=PRODUCT_RELATED_PRODUCT_CATEGORY('Cell Modem Mount v6',
+'Cell Modem Mount v6',(#963));
 #960=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#961);
 #961=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #962=PRODUCT_CONTEXT('part definition',#961,'mechanical');
-#963=PRODUCT('Cell Modem Mount','Cell Modem Mount v5',$,(#962));
+#963=PRODUCT('Cell Modem Mount','Cell Modem Mount v6',$,(#962));
 #964=PRESENTATION_STYLE_ASSIGNMENT((#965));
 #965=SURFACE_STYLE_USAGE(.BOTH.,#966);
 #966=SURFACE_SIDE_STYLE('',(#967));
